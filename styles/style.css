@@ -126,6 +126,14 @@ body {
   text-decoration: none;
 }
 
+.btn-social {
+  display: inline-block;
+  padding: 8px 14px;
+  font-size: 14px;
+  margin-top: 8px;
+  border-radius: 6px;
+}
+
 .rodape{
     padding: 24px;
     color: var(--cor-primaria);

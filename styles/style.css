@@ -105,6 +105,28 @@ body {
     width: 50%;
 }
 
+.card-projeto {
+  background-color: #111;
+  border: 1px solid #a3c14a;
+  padding: 20px;
+  border-radius: 10px;
+  margin-top: 20px;
+  max-width: 400px;
+}
+
+.card-projeto h3 {
+  margin-bottom: 10px;
+}
+
+.card-projeto p {
+  font-size: 14px;
+  color: #ccc;
+}
+
+.botoes {
+  margin-top: 15px;
+}
+
 .btn-projeto {
   display: inline-block;
   margin-top: 10px;

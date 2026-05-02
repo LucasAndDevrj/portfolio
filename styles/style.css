@@ -105,6 +105,27 @@ body {
     width: 50%;
 }
 
+.btn-projeto {
+  display: inline-block;
+  margin-top: 10px;
+  padding: 10px 20px;
+  background-color: #a3c14a;
+  color: #000;
+  font-weight: bold;
+  border-radius: 6px;
+  text-decoration: none;
+}
+
+.btn-codigo {
+  display: inline-block;
+  margin-left: 10px;
+  padding: 10px 20px;
+  border: 1px solid #a3c14a;
+  color: #a3c14a;
+  border-radius: 6px;
+  text-decoration: none;
+}
+
 .rodape{
     padding: 24px;
     color: var(--cor-primaria);
